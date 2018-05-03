@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="title_activity_calculator_type">CalculatorTypeActivity</string>
+    <string name="input_number">Please input a number</string>
+    <string name="value_1">数值1</string>
+    <string name="value_2">数值2</string>
+    <string name="calculator_type">计算类型</string>
+    <string name="button_type_select">选择计算类型</string>
+    <string name="cal_add">加</string>
+    <string name="cal_minus">减</string>
+    <string name="cal_multiply">乘</string>
+    <string name="cal_divide">除</string>
+    <string name="cal_type_title">我选择的计算类型：</string>
+    <string name="button_confirm">确定</string>
+    <string name="calculate">计算</string>
+</resources>
